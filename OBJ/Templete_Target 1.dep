@@ -1,5 +1,5 @@
 Dependencies for Project 'Templete', Target 'Target 1': (DO NOT MODIFY !)
-F (.\main.c)(0x5DC29025)(--c99 -c --cpu Cortex-M4.fp -g -O0 --apcs=interwork --split_sections -I ..\CORE -I ..\USER -I ..\HALLIB\Inc -I ..\DRIVER\inc -I ..\DRIVER -I ..\osal\inc-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\Keil\STM32L4xx_DFP\2.0.0\Drivers\CMSIS\Device\ST\STM32L4xx\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="523" -DSTM32L431xx -DUSE_HAL_DRIVER -DSTM32L431xx-o ..\obj\main.o --omf_browse ..\obj\main.crf --depend ..\obj\main.d)
+F (.\main.c)(0x5DC36822)(--c99 -c --cpu Cortex-M4.fp -g -O0 --apcs=interwork --split_sections -I ..\CORE -I ..\USER -I ..\HALLIB\Inc -I ..\DRIVER\inc -I ..\DRIVER -I ..\osal\inc-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\Keil\STM32L4xx_DFP\2.0.0\Drivers\CMSIS\Device\ST\STM32L4xx\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="523" -DSTM32L431xx -DUSE_HAL_DRIVER -DSTM32L431xx-o ..\obj\main.o --omf_browse ..\obj\main.crf --depend ..\obj\main.d)
 I (main.h)(0x5D400884)
 I (..\HALLIB\Inc\stm32l4xx_hal.h)(0x5B9B4FA5)
 I (..\USER\stm32l4xx_hal_conf.h)(0x5B9B4FB2)
@@ -5613,7 +5613,7 @@ I (..\HALLIB\Inc\stm32l4xx_hal_wwdg.h)(0x5B9B4FA5)
 I (..\HALLIB\Inc\stm32l4xx_hal_pcd.h)(0x5B9B4FA5)
 I (..\HALLIB\Inc\stm32l4xx_ll_usb.h)(0x5B9B4FA5)
 I (..\osal\inc\osal_bufmgr.h)(0x49BF0236)
-F (..\osal\src\OSAL_SimpleBLEPeripheral.c)(0x5DC26EA0)(--c99 -c --cpu Cortex-M4.fp -g -O0 --apcs=interwork --split_sections -I ..\CORE -I ..\USER -I ..\HALLIB\Inc -I ..\DRIVER\inc -I ..\DRIVER -I ..\osal\inc-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\Keil\STM32L4xx_DFP\2.0.0\Drivers\CMSIS\Device\ST\STM32L4xx\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="523" -DSTM32L431xx -DUSE_HAL_DRIVER -DSTM32L431xx-o ..\obj\osal_simplebleperipheral.o --omf_browse ..\obj\osal_simplebleperipheral.crf --depend ..\obj\osal_simplebleperipheral.d)
+F (..\osal\src\OSAL_SimpleBLEPeripheral.c)(0x5DC39564)(--c99 -c --cpu Cortex-M4.fp -g -O0 --apcs=interwork --split_sections -I ..\CORE -I ..\USER -I ..\HALLIB\Inc -I ..\DRIVER\inc -I ..\DRIVER -I ..\osal\inc-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\Keil\STM32L4xx_DFP\2.0.0\Drivers\CMSIS\Device\ST\STM32L4xx\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="523" -DSTM32L431xx -DUSE_HAL_DRIVER -DSTM32L431xx-o ..\obj\osal_simplebleperipheral.o --omf_browse ..\obj\osal_simplebleperipheral.crf --depend ..\obj\osal_simplebleperipheral.d)
 I (..\osal\inc\OSAL.h)(0x5DC29210)
 I (..\osal\inc\comdef.h)(0x5DC261DE)
 I (..\USER\main.h)(0x5D400884)
